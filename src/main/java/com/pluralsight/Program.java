@@ -77,7 +77,7 @@ public class Program {
         }
 
         System.out.println("The youngest person is: " + oldestOrYoungestPerson);
-        
+
 
     }
 }
